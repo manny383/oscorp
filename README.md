@@ -1,0 +1,2 @@
+# oscorp
+software tecno
